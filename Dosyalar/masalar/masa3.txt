@@ -1,0 +1,2 @@
+
+Urünler urunkod=1, isim=1, fiyat=1, kalori=1, maliyet=1

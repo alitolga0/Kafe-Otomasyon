@@ -1,0 +1,7 @@
+
+Urünler urunkod=1, isim=1, fiyat=1, kalori=1, maliyet=1
+Urünler urunkod=1, isim=1, fiyat=1, kalori=1, maliyet=1
+Urünler urunkod=1, isim=1, fiyat=1, kalori=1, maliyet=1
+Urünler urunkod=1, isim=1, fiyat=1, kalori=1, maliyet=1
+Urünler urunkod=1, isim=kola, fiyat=10, kalori=100, maliyet=5
+Urünler urunkod=1, isim=kola, fiyat=10, kalori=100, maliyet=5

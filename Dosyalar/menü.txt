@@ -1,0 +1,8 @@
+
+Urünler urunkod=1, isim=kola, fiyat=10, kalori=100, maliyet=5
+Urünler urunkod=2, isim=fanta, fiyat=10, kalori=100, maliyet=4
+Urünler urunkod=3, isim=kek, fiyat=5, kalori=50, maliyet=3
+Urünler urunkod=4, isim=soda, fiyat=6, kalori=111, maliyet=2
+Urünler urunkod=5, isim=çay, fiyat=4, kalori=20, maliyet=1
+Urünler urunkod=6, isim=limonata, fiyat=7, kalori=51, maliyet=3
+Urünler urunkod=7, isim=kahve, fiyat=100, kalori=50, maliyet=100
